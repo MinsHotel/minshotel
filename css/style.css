@@ -408,7 +408,7 @@ section{
 
 .room .slide .content .stars i{
     font-size: 1.7rem;
-    color: var(--primary);
+    color: #ed0202;
 }
 
 .room .slide .note {
@@ -566,7 +566,7 @@ section{
 
 .review .slide .user i{
     font-size: 1.3rem;
-    color: var(--white);
+    color: #ed0202;
 }
 
 .review .slide .user-info h3 {
