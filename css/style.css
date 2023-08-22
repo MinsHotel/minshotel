@@ -566,7 +566,7 @@ section{
 
 .review .slide .user i{
     font-size: 1.3rem;
-    color: #ed0202;
+    color: var(--white);
 }
 
 .review .slide .user-info h3 {
